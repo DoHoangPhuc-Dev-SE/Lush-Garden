@@ -1,2 +1,2 @@
 # Lush-Garden
-<img width="1440" height="1024" alt="Giao diện web Lush Garden" src="https://github.com/user-attachments/assets/293979c2-d921-4b61-b5b0-97e681f198ad" />
+<img width="1440" height="1024" alt="Dashboard Lush Garden" src="https://github.com/user-attachments/assets/758ea770-6362-4f82-aafc-79099719ac26" />
